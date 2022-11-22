@@ -7,7 +7,8 @@
         "id": "GHSA-39hc-v87j-747x",
         "fix_versions": [
           "38.0.3"
-        ]
+        ],
+        "description": "pyca/cryptography's wheels include a statically linked copy of OpenSSL. The versions of OpenSSL included in cryptography 37.0.0-38.0.3 are vulnerable to a number of security issues. More details about the vulnerabilities themselves can be found in https://www.openssl.org/news/secadv/20221101.txt.  If you are building cryptography source (\"sdist\") then you are responsible for upgrading your copy of OpenSSL. Only users installing from wheels built by the cryptography project (i.e., those distributed on PyPI) need to update their cryptography versions."
       }
     ]
   },
@@ -19,7 +20,8 @@
         "id": "PYSEC-2022-288",
         "fix_versions": [
           "1.2.0"
-        ]
+        ],
+        "description": "The package joblib from 0 and before 1.2.0 are vulnerable to Arbitrary Code Execution via the pre_dispatch flag in Parallel() class due to the eval() statement."
       }
     ]
   }

@@ -150,6 +150,7 @@ gdbgui-requirements.txt
 httpie-requirements.txt
 beancount-requirements.txt
 awscli-requirements.txt
+slither-analyzer-requirements.txt
 streamlink-requirements.txt
 ansible@6-requirements.txt
 binwalk-requirements.txt

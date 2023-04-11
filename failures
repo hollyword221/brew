@@ -25,6 +25,7 @@ graph-tool-requirements.txt
 molecule-requirements.txt
 qt-requirements.txt
 lv2-requirements.txt
+meta-package-manager-requirements.txt
 certbot-requirements.txt
 trzsz-requirements.txt
 cassandra@2.1-requirements.txt

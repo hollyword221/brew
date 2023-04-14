@@ -63,7 +63,6 @@ gi-docgen-requirements.txt
 aws-sam-cli-requirements.txt
 terminator-requirements.txt
 howdoi-requirements.txt
-torchvision-requirements.txt
 pwntools-requirements.txt
 gyb-requirements.txt
 cfn-lint-requirements.txt
@@ -78,6 +77,7 @@ conan-requirements.txt
 copier-requirements.txt
 mongo-orchestration-requirements.txt
 termius-requirements.txt
+pytorch-requirements.txt
 fdroidserver-requirements.txt
 sqlfluff-requirements.txt
 cloudformation-cli-requirements.txt

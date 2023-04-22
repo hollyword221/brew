@@ -47,6 +47,7 @@ pocsuite3-requirements.txt
 rich-cli-requirements.txt
 rbtools-requirements.txt
 mkdocs-requirements.txt
+touca-requirements.txt
 check-jsonschema-requirements.txt
 tarsnapper-requirements.txt
 weasyprint-requirements.txt
@@ -56,6 +57,7 @@ mycli-requirements.txt
 schemathesis-requirements.txt
 khal-requirements.txt
 magic-wormhole-requirements.txt
+chatblade-requirements.txt
 sgr-requirements.txt
 name-that-hash-requirements.txt
 twarc-requirements.txt
@@ -105,6 +107,7 @@ gtk-doc-requirements.txt
 sqlite-utils-requirements.txt
 watson-requirements.txt
 keepkey-agent-requirements.txt
+bandit-requirements.txt
 pgcli-requirements.txt
 dooit-requirements.txt
 trezor-agent-requirements.txt

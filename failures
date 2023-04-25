@@ -1,7 +1,6 @@
 astrometry-net-requirements.txt
 statik-requirements.txt
 stormssh-requirements.txt
-search-that-hash-requirements.txt
 appscale-tools-requirements.txt
 pdm-requirements.txt
 flintrock-requirements.txt

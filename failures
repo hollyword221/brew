@@ -81,7 +81,6 @@ termius-requirements.txt
 pytorch-requirements.txt
 fdroidserver-requirements.txt
 sqlfluff-requirements.txt
-virtualenv-requirements.txt
 cloudformation-cli-requirements.txt
 cassandra@3-requirements.txt
 b2-tools-requirements.txt
@@ -148,7 +147,6 @@ pyqt@5-requirements.txt
 cassandra-requirements.txt
 twtxt-requirements.txt
 awslogs-requirements.txt
-pymol-requirements.txt
 remarshal-requirements.txt
 osc-requirements.txt
 gdbgui-requirements.txt
@@ -156,9 +154,9 @@ httpie-requirements.txt
 beancount-requirements.txt
 awscli-requirements.txt
 slither-analyzer-requirements.txt
+commitizen-requirements.txt
 streamlink-requirements.txt
 ansible@6-requirements.txt
-waybackpy-requirements.txt
 binwalk-requirements.txt
 trailscraper-requirements.txt
 pytouhou-requirements.txt

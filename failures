@@ -6,6 +6,7 @@ pdm-requirements.txt
 flintrock-requirements.txt
 dxpy-requirements.txt
 okta-awscli-requirements.txt
+awscurl-requirements.txt
 s3cmd-requirements.txt
 anime-downloader-requirements.txt
 sail-requirements.txt

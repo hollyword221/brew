@@ -127,6 +127,7 @@ pip-audit-requirements.txt
 dvc-requirements.txt
 dstack-requirements.txt
 cruft-requirements.txt
+mathlibtools-requirements.txt
 esptool-requirements.txt
 ansible-requirements.txt
 px-requirements.txt
@@ -147,6 +148,7 @@ pyqt@5-requirements.txt
 cassandra-requirements.txt
 twtxt-requirements.txt
 awslogs-requirements.txt
+svtplay-dl-requirements.txt
 remarshal-requirements.txt
 osc-requirements.txt
 gdbgui-requirements.txt

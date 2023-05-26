@@ -35,6 +35,7 @@ organize-tool-requirements.txt
 s4cmd-requirements.txt
 conjure-up-requirements.txt
 aws-elasticbeanstalk-requirements.txt
+legit-requirements.txt
 recon-ng-requirements.txt
 libplacebo-requirements.txt
 http-prompt-requirements.txt

@@ -9,6 +9,7 @@ okta-awscli-requirements.txt
 awscurl-requirements.txt
 s3cmd-requirements.txt
 anime-downloader-requirements.txt
+ykman-requirements.txt
 sail-requirements.txt
 iredis-requirements.txt
 woob-requirements.txt
@@ -101,7 +102,6 @@ pywhat-requirements.txt
 gcalcli-requirements.txt
 animdl-requirements.txt
 pipgrip-requirements.txt
-keyring-requirements.txt
 gtk-doc-requirements.txt
 sqlite-utils-requirements.txt
 watson-requirements.txt
@@ -119,6 +119,7 @@ khard-requirements.txt
 aws-sso-util-requirements.txt
 robot-framework-requirements.txt
 principalmapper-requirements.txt
+ansible@7-requirements.txt
 fava-requirements.txt
 awscli@1-requirements.txt
 instalooter-requirements.txt

@@ -3,6 +3,7 @@ statik-requirements.txt
 stormssh-requirements.txt
 appscale-tools-requirements.txt
 pdm-requirements.txt
+linode-cli-requirements.txt
 flintrock-requirements.txt
 dxpy-requirements.txt
 okta-awscli-requirements.txt
@@ -132,6 +133,7 @@ mathlibtools-requirements.txt
 esptool-requirements.txt
 ansible-requirements.txt
 px-requirements.txt
+semgrep-requirements.txt
 mapproxy-requirements.txt
 breezy-requirements.txt
 twine-pypi-requirements.txt

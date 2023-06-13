@@ -139,6 +139,7 @@ breezy-requirements.txt
 twine-pypi-requirements.txt
 cassandra@2.2-requirements.txt
 c7n-requirements.txt
+yle-dl-requirements.txt
 charmcraft-requirements.txt
 jenkins-job-builder-requirements.txt
 snakemake-requirements.txt

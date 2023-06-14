@@ -112,6 +112,7 @@ pgcli-requirements.txt
 dooit-requirements.txt
 trezor-agent-requirements.txt
 oci-cli-requirements.txt
+conda-lock-requirements.txt
 hatch-requirements.txt
 azure-cli-requirements.txt
 openai-whisper-requirements.txt

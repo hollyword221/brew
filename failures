@@ -97,6 +97,7 @@ datasette-requirements.txt
 ansible@2.9-requirements.txt
 bpython-requirements.txt
 gitlint-requirements.txt
+fabric-requirements.txt
 alot-requirements.txt
 locust-requirements.txt
 pywhat-requirements.txt
@@ -167,6 +168,7 @@ ansible@6-requirements.txt
 binwalk-requirements.txt
 trailscraper-requirements.txt
 pytouhou-requirements.txt
+mitmproxy-requirements.txt
 enex2notion-requirements.txt
 cookiecutter-requirements.txt
 awsume-requirements.txt

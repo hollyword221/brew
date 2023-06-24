@@ -109,6 +109,7 @@ sqlite-utils-requirements.txt
 watson-requirements.txt
 keepkey-agent-requirements.txt
 bandit-requirements.txt
+shub-requirements.txt
 pgcli-requirements.txt
 dooit-requirements.txt
 trezor-agent-requirements.txt

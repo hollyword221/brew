@@ -1,4 +1,4 @@
-argcomplete==3.0.8 --hash=sha256:b9ca96448e14fa459d7450a4ab5a22bbf9cee4ba7adddf03e65c398b5daeea28
+argcomplete==3.1.1 --hash=sha256:6c4c563f14f01440aaffa3eae13441c5db2357b5eec639abe7c0b15334627dff
 charset-normalizer==3.1.0 --hash=sha256:34e0a2f9c370eb95597aae63bf85eb5e96826d81e3dcf88b8886012906f509b5
 colorama==0.4.6 --hash=sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44
 decli==0.6.1 --hash=sha256:ed88ccb947701e8e5509b7945fda56e150e2ac74a69f25d47ac85ef30ab0c0f0

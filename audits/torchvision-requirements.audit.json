@@ -1,7 +1,7 @@
 [
   {
     "name": "requests",
-    "version": "2.28.2",
+    "version": "2.30.0",
     "vulns": [
       {
         "id": "PYSEC-2023-74",

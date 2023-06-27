@@ -1,0 +1,15 @@
+[
+  {
+    "name": "setuptools",
+    "version": "59.8.0",
+    "vulns": [
+      {
+        "id": "PYSEC-2022-43012",
+        "fix_versions": [
+          "65.5.1"
+        ],
+        "description": "Python Packaging Authority (PyPA) setuptools before 65.5.1 allows remote attackers to cause a denial of service via HTML in a crafted package or custom PackageIndex page. There is a Regular Expression Denial of Service (ReDoS) in package_index.py."
+      }
+    ]
+  }
+]

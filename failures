@@ -113,6 +113,7 @@ shub-requirements.txt
 pgcli-requirements.txt
 dooit-requirements.txt
 trezor-agent-requirements.txt
+sickchill-requirements.txt
 oci-cli-requirements.txt
 conda-lock-requirements.txt
 hatch-requirements.txt

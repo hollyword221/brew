@@ -127,6 +127,7 @@ principalmapper-requirements.txt
 ansible@7-requirements.txt
 fava-requirements.txt
 awscli@1-requirements.txt
+bbot-requirements.txt
 instalooter-requirements.txt
 jrnl-requirements.txt
 pip-audit-requirements.txt

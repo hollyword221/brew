@@ -25,32 +25,5 @@
         "description": "pyca/cryptography's wheels include a statically linked copy of OpenSSL. The versions of OpenSSL included in cryptography 0.5-40.0.2 are vulnerable to a security issue. More details about the vulnerability itself can be found in https://www.openssl.org/news/secadv/20230530.txt.  If you are building cryptography source (\"sdist\") then you are responsible for upgrading your copy of OpenSSL. Only users installing from wheels built by the cryptography project (i.e., those distributed on PyPI) need to update their cryptography versions."
       }
     ]
-  },
-  {
-    "name": "flask",
-    "version": "2.2.4",
-    "vulns": [
-      {
-        "id": "PYSEC-2023-62",
-        "fix_versions": [
-          "2.2.5",
-          "2.3.2"
-        ],
-        "description": "Flask is a lightweight WSGI web application framework. When all of the following conditions are met, a response containing data intended for one client may be cached and subsequently sent by the proxy to other clients. If the proxy also caches `Set-Cookie` headers, it may send one client's `session` cookie to other clients. The severity depends on the application's use of the session and the proxy's behavior regarding cookies. The risk depends on all these conditions being met.  1. The application must be hosted behind a caching proxy that does not strip cookies or ignore responses with cookies. 2. The application sets `session.permanent = True` 3. The application does not access or modify the session at any point during a request. 4. `SESSION_REFRESH_EACH_REQUEST` enabled (the default). 5. The application does not set a `Cache-Control` header to indicate that a page is private or should not be cached.  This happens because vulnerable versions of Flask only set the `Vary: Cookie` header when the session is accessed or modified, not when it is refreshed (re-sent to update the expiration) without being accessed or modified. This issue has been fixed in versions 2.3.2 and 2.2.5."
-      }
-    ]
-  },
-  {
-    "name": "tornado",
-    "version": "6.3.1",
-    "vulns": [
-      {
-        "id": "PYSEC-2023-75",
-        "fix_versions": [
-          "6.3.2"
-        ],
-        "description": "Open redirect vulnerability in Tornado versions 6.3.1 and earlier allows a remote unauthenticated attacker to redirect a user to an arbitrary web site and conduct a phishing attack by having user access a specially crafted URL."
-      }
-    ]
   }
 ]

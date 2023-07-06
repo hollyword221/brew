@@ -89,6 +89,7 @@ b2-tools-requirements.txt
 ciphey-requirements.txt
 cloudiscovery-requirements.txt
 textract-requirements.txt
+cycode-requirements.txt
 sslyze-requirements.txt
 todoman-requirements.txt
 esphome-requirements.txt
@@ -171,7 +172,6 @@ ansible@6-requirements.txt
 binwalk-requirements.txt
 trailscraper-requirements.txt
 pytouhou-requirements.txt
-mitmproxy-requirements.txt
 enex2notion-requirements.txt
 cookiecutter-requirements.txt
 awsume-requirements.txt

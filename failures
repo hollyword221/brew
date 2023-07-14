@@ -150,6 +150,7 @@ charmcraft-requirements.txt
 jenkins-job-builder-requirements.txt
 snakemake-requirements.txt
 ansible@2.8-requirements.txt
+mvt-requirements.txt
 charm-tools-requirements.txt
 ansible-lint-requirements.txt
 snapcraft-requirements.txt

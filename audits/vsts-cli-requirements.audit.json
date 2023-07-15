@@ -17,6 +17,13 @@
     "version": "3.4.8",
     "vulns": [
       {
+        "id": "PYSEC-2023-112",
+        "fix_versions": [
+          "41.0.2"
+        ],
+        "description": "The cryptography package before 41.0.2 for Python mishandles SSH certificates that have critical options."
+      },
+      {
         "id": "GHSA-w7pp-m8wf-vj6r",
         "fix_versions": [
           "39.0.1"

@@ -1,4 +1,4 @@
 argcomplete==3.1.1 --hash=sha256:6c4c563f14f01440aaffa3eae13441c5db2357b5eec639abe7c0b15334627dff
-libarchive-c==4.0 --hash=sha256:a5b41ade94ba58b198d778e68000f6b7de41da768de7140c984f71d7fa8416e5
+libarchive-c==5.0 --hash=sha256:d673f56673d87ec740d1a328fa205cafad1d60f5daca4685594deb039d32b159
 progressbar==2.5 --hash=sha256:5d81cb529da2e223b53962afd6c8ca0f05c6670e40309a7219eacc36af9b6c63
 python-magic==0.4.27 --hash=sha256:c1ba14b08e4a5f5c31a302b7721239695b2f0f058d125bd5ce1ee36b9d9d3c3b

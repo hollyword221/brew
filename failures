@@ -176,7 +176,6 @@ pytouhou-requirements.txt
 enex2notion-requirements.txt
 cookiecutter-requirements.txt
 awsume-requirements.txt
-scrapy-requirements.txt
 shallow-backup-requirements.txt
 homeassistant-cli-requirements.txt
 aws-google-auth-requirements.txt

@@ -1,3 +1,4 @@
+gandi.cli-requirements.txt
 astrometry-net-requirements.txt
 statik-requirements.txt
 stormssh-requirements.txt
@@ -44,6 +45,7 @@ osc-cli-requirements.txt
 s3ql-requirements.txt
 parliament-requirements.txt
 pyside-requirements.txt
+juju-wait-requirements.txt
 nbdime-requirements.txt
 pocsuite3-requirements.txt
 rich-cli-requirements.txt
@@ -70,6 +72,7 @@ howdoi-requirements.txt
 pwntools-requirements.txt
 gyb-requirements.txt
 cfn-lint-requirements.txt
+libtorch-requirements.txt
 onlykey-agent-requirements.txt
 bandcamp-dl-requirements.txt
 cppman-requirements.txt
@@ -93,6 +96,7 @@ cycode-requirements.txt
 sslyze-requirements.txt
 todoman-requirements.txt
 esphome-requirements.txt
+open-adventure-requirements.txt
 aws-shell-requirements.txt
 datasette-requirements.txt
 ansible@2.9-requirements.txt
@@ -114,6 +118,7 @@ shub-requirements.txt
 pgcli-requirements.txt
 dooit-requirements.txt
 trezor-agent-requirements.txt
+yamale-requirements.txt
 sickchill-requirements.txt
 oci-cli-requirements.txt
 conda-lock-requirements.txt
@@ -144,6 +149,7 @@ mapproxy-requirements.txt
 breezy-requirements.txt
 twine-pypi-requirements.txt
 cassandra@2.2-requirements.txt
+shyaml-requirements.txt
 c7n-requirements.txt
 yle-dl-requirements.txt
 charmcraft-requirements.txt
@@ -162,6 +168,7 @@ awslogs-requirements.txt
 svtplay-dl-requirements.txt
 remarshal-requirements.txt
 osc-requirements.txt
+vsts-cli-requirements.txt
 gdbgui-requirements.txt
 httpie-requirements.txt
 beancount-requirements.txt
@@ -171,6 +178,7 @@ commitizen-requirements.txt
 streamlink-requirements.txt
 ansible@6-requirements.txt
 binwalk-requirements.txt
+dotbot-requirements.txt
 trailscraper-requirements.txt
 pytouhou-requirements.txt
 enex2notion-requirements.txt
@@ -186,6 +194,7 @@ restview-requirements.txt
 theharvester-requirements.txt
 gimme-aws-creds-requirements.txt
 duplicity-requirements.txt
+stone-soup-requirements.txt
 sceptre-requirements.txt
 mps-youtube-requirements.txt
 salt-requirements.txt

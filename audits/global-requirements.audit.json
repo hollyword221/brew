@@ -1,0 +1,15 @@
+[
+  {
+    "name": "pygments",
+    "version": "2.13.0",
+    "vulns": [
+      {
+        "id": "PYSEC-2023-117",
+        "fix_versions": [
+          "2.15.1"
+        ],
+        "description": "A ReDoS issue was discovered in pygments/lexers/smithy.py in pygments through 2.15.0 via SmithyLexer."
+      }
+    ]
+  }
+]
